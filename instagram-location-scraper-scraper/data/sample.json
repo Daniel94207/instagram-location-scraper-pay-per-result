@@ -1,0 +1,46 @@
+[
+    {
+        "postId": "1234567890123456789",
+        "code": "ABCdefGhIjK",
+        "url": "https://www.instagram.com/p/ABCdefGhIjK/",
+        "createdAt": "2025-01-15T10:20:30.000Z",
+        "likeCount": 123,
+        "commentCount": 45,
+        "caption": "Example caption text with #hashtags and @mentions.",
+        "location": {
+            "id": "555555555",
+            "name": "Example Place",
+            "city": "Sample City, Country",
+            "lat": 40.7128,
+            "lng": -74.0060
+        },
+        "owner": {
+            "id": "9876543210",
+            "username": "example_user",
+            "fullName": "Example User",
+            "profilePicUrl": "https://example.com/profile.jpg",
+            "isPrivate": false,
+            "isVerified": true
+        },
+        "video": {
+            "id": "video_12345",
+            "url": "https://example.com/video.mp4",
+            "width": 1080,
+            "height": 1920,
+            "duration": 12.34
+        },
+        "image": {
+            "url": "https://example.com/image.jpg",
+            "width": 1080,
+            "height": 1350
+        },
+        "audio": {
+            "id": "audio_98765",
+            "title": "Example Track",
+            "artist": "Example Artist",
+            "coverArt": "https://example.com/cover.jpg",
+            "duration": 180000,
+            "audioUrl": "https://example.com/audio.mp4"
+        }
+    }
+]
